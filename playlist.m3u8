@@ -729,11 +729,3 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3003
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3007
 #EXTINF:0 tvg-id="3010" tvg-name="Sony Miss World" group-title="Hindi;Entertainment" tvg-chno="1030" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Miss_World.png",Sony Miss World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3010
-#EXTINF:0 tvg-id="741" tvg-name="Sangeet Bhojpuri" group-title="Bhojpuri;Music" tvg-chno="309" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png",Sangeet Bhojpuri
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=741
-#EXTINF:0 tvg-id="2038" tvg-name="Dhamaal" group-title="Bhojpuri;Music" tvg-chno="886" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2038&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Dhamaal
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2038
-#EXTINF:0 tvg-id="2229" tvg-name="Bhojpuri Junction" group-title="Bhojpuri;Music" tvg-chno="916" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2229&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bhojpuri Junction
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2229
-#EXTINF:0 tvg-id="2755" tvg-name="Saregama Hum Bhojpuri" group-title="Bhojpuri;Music" tvg-chno="957" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Hum_Bhojpuri.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2755&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Saregama Hum Bhojpuri
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2755
