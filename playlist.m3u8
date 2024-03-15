@@ -1,4 +1,26 @@
 #EXTM3U x-tvg-url="https://tobalan.github.io/epg.xml.gz"
+
+#EXTINF:0 tvg-id="291" tvg-name="SET HD" group-title="Hindi;Entertainment" tvg-chno="34" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
+#EXTINF:0 tvg-id="471" tvg-name="Sony SAB HD" group-title="Hindi;Entertainment" tvg-chno="28" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#EXTINF:0 tvg-id="476" tvg-name="Sony Max HD" group-title="Hindi;Movies" tvg-chno="110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=476&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Max HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:0 tvg-id="524" tvg-name="Sony Ten 3 Hindi" group-title="Hindi;Sports" tvg-chno="3" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",Sony Ten 3 Hindi
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:0 tvg-id="483" tvg-name="Sony MAX2" group-title="Hindi;Movies" tvg-chno="114" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=483&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
+#EXTINF:0 tvg-id="1393" tvg-name="Sony Wah" group-title="Hindi;Entertainment" tvg-chno="619" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1393&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Wah
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+
+#EXTINF:0 tvg-id="872" tvg-name="Sony Yay Hindi" group-title="Hindi;Kids" tvg-chno="383" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=872&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Yay Hindi
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+
 #EXTINF:0 tvg-id="173" tvg-name="Aaj Tak" group-title="Hindi;News" tvg-chno="1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=173&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Aaj Tak
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=173
 #EXTINF:0 tvg-id="144" tvg-name="Colors HD" group-title="Hindi;Entertainment" tvg-chno="5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors HD
