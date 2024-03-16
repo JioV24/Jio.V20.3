@@ -285,7 +285,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=855
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=856
 #EXTINF:0 tvg-id="871" tvg-name="Jio Events HD" group-title="Hindi;Infotainment" tvg-chno="388" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=871&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jio Events HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=871
-#EXTINF:0 tvg-id="872" tvg-name="Sony Yay Hindi" group-title="Hindi;Kids" tvg-chno="389" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=872&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Yay Hindi
+#EXTINF:0 tvg-id="872" group-title="Hindi;Kids" tvg-chno="389" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=872&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Yay Hindi
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:0 tvg-id="879" tvg-name="Hare krsna" group-title="Hindi;Devotional" tvg-chno="394" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Harekrsna.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=879&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Hare krsna
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=879
