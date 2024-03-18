@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml.gz"
+#EXTM3U x-tvg-url="https://tobalan.github.io/epg.xml.gz"
 #EXTINF:0 tvg-id="173" tvg-name="Aaj Tak" group-title="Hindi;News" tvg-chno="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=173&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Aaj Tak
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=173
 #EXTINF:0 tvg-id="144" tvg-name="Colors HD" group-title="Hindi;Entertainment" tvg-chno="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Colors HD
