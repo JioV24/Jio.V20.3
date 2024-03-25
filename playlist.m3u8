@@ -1,0 +1,25 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz
+
+#EXTINF:0 tvg-id="ts15" tvg-name="SET HD" group-title="Hindi;Entertainment" tvg-chno="15" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
+#EXTINF:0 tvg-id="ts48" tvg-name="Sony SAB HD" group-title="Hindi;Entertainment" tvg-chno="16" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#EXTINF:0 tvg-id="ts554" tvg-name="Sony Pal" group-title="Hindi;Entertainment" tvg-chno="111" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
+#EXTINF:0 tvg-id="ts56" tvg-name="Sony Wah" group-title="Hindi;Entertainment" tvg-chno="620" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",Sony Wah
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+
+#EXTINF:0 tvg-id="ts80" tvg-name="Sony Max HD" group-title="Hindi;Movies" tvg-chno="112" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:0 tvg-id="ts120" tvg-name="Sony MAX2" group-title="Hindi;Movies" tvg-chno="115" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
+#EXTINF:0 tvg-id="ts45" tvg-name="Sony Yay Hindi" group-title="Hindi;Kids" tvg-chno="386" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay Hindi
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+
+#EXTINF:0 tvg-id="ts464" tvg-name="Sony Ten 3 HD Hindi" group-title="Hindi;Sports" tvg-chno="399" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD Hindi
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
