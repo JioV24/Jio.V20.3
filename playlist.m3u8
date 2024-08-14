@@ -196,7 +196,7 @@ http://192.168.1.17:8000/TS-JioTV/app/ts_live_580.m3u8
 #EXTINF:-1 tvg-id=583 tvg-name="DD Kisan" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", DD Kisan
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_583.m3u8
 #EXTINF:-1 tvg-id=584 tvg-name="Mastiii" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Mastiii.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Mastiii
-http://192.168.1.17:8000/TS-JioTV/app/ts_live_584.m3u8
+http://192.168.1.17:8080/JioTv/live.php?id=584&key=JITENDRAUNATTI&e=.m3u8
 #EXTINF:-1 tvg-id=585 tvg-name="Zing" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Zing
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_585.m3u8
 #EXTINF:-1 tvg-id=587 tvg-name="9XM" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/9XM.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
