@@ -51,6 +51,16 @@ http://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 http://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 #EXTINF:-1 tvg-id=ts464 tvg-name="Sony Ten 3 HD Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 HD Hindi
 http://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id=ts61 tvg-name="Colors Cineplex HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
+http://192.168.1.17:8000/TS-JioTV/app/ts_live_1477.m3u8
+#EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
+http://192.168.1.17:8000/TS-JioTV/app/ts_live_1450.m3u8
+#EXTINF:-1 tvg-id=ts1000 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
+http://192.168.1.17:8000/TS-JioTV/app/ts_live_1763.m3u8
+#EXTINF:-1 tvg-id=ts405 tvg-name="MTV Beats HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats HD
+http://192.168.1.17:8000/TS-JioTV/app/ts_live_753.m3u8
+#EXTINF:-1 tvg-id=ts406 tvg-name="MTV HD Plus" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD Plus
+http://192.168.1.17:8000/TS-JioTV/app/ts_live_1145.m3u8
 #EXTINF:-1 tvg-id=ts138 tvg-name="Nick Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nick Hindi
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_545.m3u8
 #EXTINF:-1 tvg-id=ts118 tvg-name="Nickelodeon Jr." tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nickelodeon Jr.
@@ -65,8 +75,6 @@ http://192.168.1.17:8000/TS-JioTV/app/ts_live_815.m3u8
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_816.m3u8
 #EXTINF:-1 tvg-id=ts45 tvg-name="Sony Yay Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
 http://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 tvg-id=ts61 tvg-name="Colors Cineplex HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
-http://192.168.1.17:8000/TS-JioTV/app/ts_live_1477.m3u8
 #EXTINF:-1 tvg-id=ts503 tvg-name="Zee Cinema HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_165.m3u8
 #EXTINF:-1 tvg-id=ts267 tvg-name="And Pictures HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD
@@ -85,14 +93,6 @@ http://192.168.1.17:8000/TS-JioTV/app/ts_live_1691.m3u8
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_809.m3u8
 #EXTINF:-1 tvg-id=ts730 tvg-name="B4U Kadak" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Kadak
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_1295.m3u8
-#EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
-http://192.168.1.17:8000/TS-JioTV/app/ts_live_1450.m3u8
-#EXTINF:-1 tvg-id=ts1000 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
-http://192.168.1.17:8000/TS-JioTV/app/ts_live_1763.m3u8
-#EXTINF:-1 tvg-id=ts405 tvg-name="MTV Beats HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats HD
-http://192.168.1.17:8000/TS-JioTV/app/ts_live_753.m3u8
-#EXTINF:-1 tvg-id=ts406 tvg-name="MTV HD Plus" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD Plus
-http://192.168.1.17:8000/TS-JioTV/app/ts_live_1145.m3u8
 #EXTINF:-1 tvg-id=ts9 tvg-name="B4U Music" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_183.m3u8
 #EXTINF:-1 tvg-id=250 tvg-name="Music India" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
