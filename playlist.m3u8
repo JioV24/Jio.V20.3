@@ -1,0 +1,127 @@
+#EXTM3U x-tvg-url="http://tsepg.cf/jio.xml.gz"
+#EXTINF:-1 tvg-id=ts52 tvg-name="Colors HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
+http://192.168.1.17:5001/live/high/144.m3u8
+#EXTINF:-1 tvg-id=ts63 tvg-name="Zee TV HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD
+http://192.168.1.17:5001/live/high/167.m3u8
+#EXTINF:-1 tvg-id=ts40 tvg-name="And TV HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", And TV HD
+http://192.168.1.17:5001/live/high/472.m3u8
+#EXTINF:-1 tvg-id=ts15 tvg-name="SET HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
+http://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-id=ts48 tvg-name="Sony SAB HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
+http://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-id=ts554 tvg-name="Sony Pal" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
+http://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-id=ts56 tvg-name="Sony Wah" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Wah
+http://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-id=ts523 tvg-name="Zee Anmol" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee Anmol
+http://192.168.1.17:5001/live/high/473.m3u8
+#EXTINF:-1 tvg-id=ts297 tvg-name="Big Magic" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Big Magic
+http://192.168.1.17:5001/live/high/1359.m3u8
+#EXTINF:-1 tvg-id=ts51 tvg-name="Dangal" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Dangal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Dangal
+http://192.168.1.17:5001/live/high/701.m3u8
+#EXTINF:-1 tvg-id=ts132 tvg-name="Sony Max SD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max SD
+http://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-id=ts80 tvg-name="Sony Max HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
+http://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id=ts120 tvg-name="Sony MAX2" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
+http://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-id=ts171 tvg-name="Sony Ten 3 Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 Hindi
+http://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-id=ts464 tvg-name="Sony Ten 3 HD Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 HD Hindi
+http://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id=ts61 tvg-name="Colors Cineplex HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
+http://192.168.1.17:5001/live/high/1477.m3u8
+#EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
+http://192.168.1.17:5001/live/high/1450.m3u8
+#EXTINF:-1 tvg-id=ts1000 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
+http://192.168.1.17:5001/live/high/1763.m3u8
+#EXTINF:-1 tvg-id=ts405 tvg-name="MTV Beats HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats HD
+http://192.168.1.17:5001/live/high/753.m3u8
+#EXTINF:-1 tvg-id=ts406 tvg-name="MTV HD Plus" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD Plus
+http://192.168.1.17:5001/live/high/1145.m3u8
+#EXTINF:-1 tvg-id=ts138 tvg-name="Nick Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nick Hindi
+http://192.168.1.17:5001/live/high/545.m3u8
+#EXTINF:-1 tvg-id=ts118 tvg-name="Nickelodeon Jr." tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nickelodeon Jr.
+http://192.168.1.17:5001/live/high/548.m3u8
+#EXTINF:-1 tvg-id=ts119 tvg-name="Discovery Kids 2" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Discovery Kids 2
+http://192.168.1.17:5001/live/high/554.m3u8
+#EXTINF:-1 tvg-id=ts239 tvg-name="Pogo Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Pogo Hindi
+http://192.168.1.17:5001/live/high/559.m3u8
+#EXTINF:-1 tvg-id=ts127 tvg-name="Sonic Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sonic Hindi
+http://192.168.1.17:5001/live/high/815.m3u8
+#EXTINF:-1 tvg-id=ts238 tvg-name="Cartoon Network Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network Hindi
+http://192.168.1.17:5001/live/high/816.m3u8
+#EXTINF:-1 tvg-id=ts45 tvg-name="Sony Yay Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
+http://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-id=ts503 tvg-name="Zee Cinema HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
+http://192.168.1.17:5001/live/high/165.m3u8
+#EXTINF:-1 tvg-id=ts267 tvg-name="And Pictures HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD
+http://192.168.1.17:5001/live/high/185.m3u8
+#EXTINF:-1 tvg-id=ts1183 tvg-name="&Xplore HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplore HD
+http://192.168.1.17:5001/live/high/1668.m3u8
+#EXTINF:-1 tvg-id=ts64 tvg-name="Zee Anmol Cinema" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema
+http://192.168.1.17:5001/live/high/415.m3u8
+#EXTINF:-1 tvg-id=ts175 tvg-name="Zee Bollywood" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood
+http://192.168.1.17:5001/live/high/487.m3u8
+#EXTINF:-1 tvg-id=ts100 tvg-name="Zee Action" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action
+http://192.168.1.17:5001/live/high/488.m3u8
+#EXTINF:-1 tvg-id=ts727 tvg-name="Zee Classic" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Classic
+http://192.168.1.17:5001/live/high/1691.m3u8
+#EXTINF:-1 tvg-id=809 tvg-name="Maha Movies" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Maha Movies
+http://192.168.1.17:5001/live/high/809.m3u8
+#EXTINF:-1 tvg-id=ts730 tvg-name="B4U Kadak" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Kadak
+http://192.168.1.17:5001/live/high/1295.m3u8
+#EXTINF:-1 tvg-id=ts9 tvg-name="B4U Music" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
+http://192.168.1.17:5001/live/high/183.m3u8
+#EXTINF:-1 tvg-id=250 tvg-name="Music India" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
+http://192.168.1.17:5001/live/high/250.m3u8
+#EXTINF:-1 tvg-id=ts39 tvg-name="9X Jalwa" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
+http://192.168.1.17:5001/live/high/440.m3u8
+#EXTINF:-1 tvg-id=ts17 tvg-name="Mastiii" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Mastiii.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Mastiii
+http://192.168.1.17:5001/live/high/584.m3u8
+#EXTINF:-1 tvg-id=ts517 tvg-name="Zing" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Zing
+http://192.168.1.17:5001/live/high/585.m3u8
+#EXTINF:-1 tvg-id=ts139 tvg-name="9XM" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/9XM.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
+http://192.168.1.17:5001/live/high/587.m3u8
+#EXTINF:-1 tvg-id=ts224 tvg-name="E 24" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
+http://192.168.1.17:5001/live/high/591.m3u8
+#EXTINF:-1 tvg-id=ts96 tvg-name="ZOOM" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
+http://192.168.1.17:5001/live/high/592.m3u8
+#EXTINF:-1 tvg-id=1249 tvg-name="Kadak Hits" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Kadak_Hits.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Kadak Hits
+http://192.168.1.17:5001/live/high/1249.m3u8
+#EXTINF:-1 tvg-id=2036 tvg-name="Dil Se" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Dil_Se.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Dil Se
+http://192.168.1.17:5001/live/high/2036.m3u8
+#EXTINF:-1 tvg-id=2065 tvg-name="Saregama Music" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saregama Music
+http://192.168.1.17:5001/live/high/2065.m3u8
+#EXTINF:-1 tvg-id=ts259 tvg-name="Zee News" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee News
+http://192.168.1.17:5001/live/high/504.m3u8
+#EXTINF:-1 tvg-id=ts153 tvg-name="Aaj Tak" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
+http://192.168.1.17:5001/live/high/173.m3u8
+#EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
+http://192.168.1.17:5001/live/high/177.m3u8
+#EXTINF:-1 tvg-id=ts966 tvg-name="Times Now Navbharat" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Times Now Navbharat
+http://192.168.1.17:5001/live/high/1906.m3u8
+#EXTINF:-1 tvg-id=ts209 tvg-name="News 24" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/News_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 24
+http://192.168.1.17:5001/live/high/501.m3u8
+#EXTINF:-1 tvg-id=ts223 tvg-name="DD Sports" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", DD Sports
+http://192.168.1.17:5001/live/high/204.m3u8
+#EXTINF:-1 tvg-id=1998 tvg-name="Sports18 Khel" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sports18 Khel
+http://192.168.1.17:5001/live/high/1998.m3u8
+#EXTINF:-1 tvg-id=2852 tvg-name="Sports18 2" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sports18_2.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sports18 2
+http://192.168.1.17:5001/live/high/2852.m3u8
+#EXTINF:-1 tvg-id=ts181 tvg-name="Bhojpuri Cinema" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Bhojpuri Cinema
+http://192.168.1.17:5001/live/high/486.m3u8
+#EXTINF:-1 tvg-id=741 tvg-name="Sangeet Bhojpuri" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="Music", Sangeet Bhojpuri
+http://192.168.1.17:5001/live/high/741.m3u8
+#EXTINF:-1 tvg-id=883 tvg-name="Oscar Movies" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Osar_Movies.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Oscar Movies
+http://192.168.1.17:5001/live/high/883.m3u8
+#EXTINF:-1 tvg-id=1296 tvg-name="B4U Bhojpuri" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", B4U Bhojpuri
+http://192.168.1.17:5001/live/high/1296.m3u8
+#EXTINF:-1 tvg-id=1745 tvg-name="Zee Bioskope SD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Zee Bioskope SD
+http://192.168.1.17:5001/live/high/1745.m3u8
+#EXTINF:-1 tvg-id=2038 tvg-name="Dhamaal" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="Music", Dhamaal
+http://192.168.1.17:5001/live/high/2038.m3u8
+#EXTINF:-1 tvg-id=2229 tvg-name="Bhojpuri Junction" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="Music", Bhojpuri Junction
+http://192.168.1.17:5001/live/high/2229.m3u8
+#EXTINF:-1 tvg-id=2755 tvg-name="Saregama Hum Bhojpuri" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Hum_Bhojpuri.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="Music", Saregama Hum Bhojpuri
+http://192.168.1.17:5001/live/high/2755.m3u8
