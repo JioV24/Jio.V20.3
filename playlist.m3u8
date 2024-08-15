@@ -51,8 +51,6 @@ http://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 http://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 #EXTINF:-1 tvg-id=ts464 tvg-name="Sony Ten 3 HD Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 HD Hindi
 http://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 tvg-id=ts45 tvg-name="Sony Yay Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
-http://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id=ts138 tvg-name="Nick Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nick Hindi
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_545.m3u8
 #EXTINF:-1 tvg-id=ts118 tvg-name="Nickelodeon Jr." tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nickelodeon Jr.
@@ -65,6 +63,8 @@ http://192.168.1.17:8000/TS-JioTV/app/ts_live_559.m3u8
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_815.m3u8
 #EXTINF:-1 tvg-id=ts238 tvg-name="Cartoon Network Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network Hindi
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_816.m3u8
+#EXTINF:-1 tvg-id=ts45 tvg-name="Sony Yay Hindi" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
+http://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id=ts61 tvg-name="Colors Cineplex HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 http://192.168.1.17:8000/TS-JioTV/app/ts_live_1477.m3u8
 #EXTINF:-1 tvg-id=ts503 tvg-name="Zee Cinema HD" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
