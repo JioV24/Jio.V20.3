@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://tobalan.github.io/epg.xml.gz"
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
 #EXTINF:0 tvg-id="144" tvg-name="Colors HD" group-title="Entertainment" tvg-chno="2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
 #EXTINF:0 tvg-id="154" tvg-name="Sony SAB" group-title="Entertainment" tvg-chno="5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=154&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony SAB
