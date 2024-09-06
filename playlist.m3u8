@@ -1,0 +1,831 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTINF:0 tvg-id="144" tvg-name="Colors HD" group-title="Entertainment" tvg-chno="2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
+#EXTINF:0 tvg-id="154" tvg-name="Sony SAB" group-title="Entertainment" tvg-chno="5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=154&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony SAB
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=154
+#EXTINF:0 tvg-id="165" tvg-name="Zee Cinema HD" group-title="Movies" tvg-chno="9" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=165
+#EXTINF:0 tvg-id="167" tvg-name="Zee TV HD" group-title="Entertainment" tvg-chno="11" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167
+#EXTINF:0 tvg-id="173" tvg-name="Aaj Tak" group-title="News" tvg-chno="12" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=173&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Aaj Tak
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=173
+#EXTINF:0 tvg-id="175" tvg-name="Aastha" group-title="Devotional" tvg-chno="13" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=175&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Aastha
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=175
+#EXTINF:0 tvg-id="177" tvg-name="ABP News India" group-title="News" tvg-chno="14" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=177&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ABP News India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=177
+#EXTINF:0 tvg-id="182" tvg-name="B4U Movies" group-title="Movies" tvg-chno="16" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=182
+#EXTINF:0 tvg-id="183" tvg-name="B4U Music" group-title="Music" tvg-chno="17" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=183
+#EXTINF:0 tvg-id="185" tvg-name="And Pictures HD" group-title="Movies" tvg-chno="18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=185
+#EXTINF:0 tvg-id="190" tvg-name="CNBC Awaaz" group-title="Business News" tvg-chno="19" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=190&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",CNBC Awaaz
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=190
+#EXTINF:0 tvg-id="202" tvg-name="DD National" group-title="Entertainment" tvg-chno="23" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202
+#EXTINF:0 tvg-id="203" tvg-name="DD News" group-title="News" tvg-chno="24" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=203
+#EXTINF:0 tvg-id="204" tvg-name="DD Sports" group-title="Sports" tvg-chno="25" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=204
+#EXTINF:0 tvg-id="231" tvg-name="News 18 India" group-title="News" tvg-chno="27" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=231&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News 18 India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=231
+#EXTINF:0 tvg-id="235" tvg-name="India TV" group-title="News" tvg-chno="29" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=235&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=235
+#EXTINF:0 tvg-id="248" tvg-name="MTV" group-title="Music" tvg-chno="31" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=248
+#EXTINF:0 tvg-id="250" tvg-name="Music India" group-title="Music" tvg-chno="32" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",Music India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=250
+#EXTINF:0 tvg-id="258" tvg-name="NDTV India" group-title="News" tvg-chno="35" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=258&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",NDTV India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=258
+#EXTINF:0 tvg-id="279" tvg-name="Rishtey" group-title="Entertainment" tvg-chno="37" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=279&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Rishtey
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=279
+#EXTINF:0 tvg-id="288" tvg-name="Sanskar" group-title="Devotional" tvg-chno="39" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=288&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sanskar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=288
+#EXTINF:0 tvg-id="ts132" tvg-name="Sony Max SD" group-title="Movies" tvg-chno="40" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=289&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Max SD
+https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:0 tvg-id="ts15" tvg-name="SET HD" group-title="Entertainment" tvg-chno="42" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",SET HD
+http://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:0 tvg-id="415" tvg-name="Zee Anmol Cinema" group-title="Movies" tvg-chno="59" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=415
+#EXTINF:0 tvg-id="440" tvg-name="9X Jalwa" group-title="Music" tvg-chno="67" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",9X Jalwa
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=440
+#EXTINF:0 tvg-id="466" tvg-name="Arihant TV" group-title="Devotional" tvg-chno="74" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=466&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Arihant TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=466
+#EXTINF:0 tvg-id="ts48" tvg-name="Sony SAB HD" group-title="Entertainment" tvg-chno="75" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony SAB HD
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:0 tvg-id="472" tvg-name="And TV HD" group-title="Entertainment" tvg-chno="76" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472
+#EXTINF:0 tvg-id="473" tvg-name="Zee Anmol" group-title="Entertainment" tvg-chno="77" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=473
+#EXTINF:0 tvg-id="ts554" tvg-name="Sony Pal" group-title="Entertainment" tvg-chno="78" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=474&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Pal
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:0 tvg-id="ts80" tvg-name="Sony Max HD" group-title="Movies" tvg-chno="79" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=476&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Max HD
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:0 tvg-id="481" tvg-name="Epic" group-title="Entertainment" tvg-chno="81" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=481&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Epic
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=481
+#EXTINF:0 tvg-id="482" tvg-name="Colors Cineplex" group-title="Movies" tvg-chno="82" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=482&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=482
+#EXTINF:0 tvg-id="ts120" tvg-name="Sony MAX2" group-title="Movies" tvg-chno="83" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=483&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony MAX2
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:0 tvg-id="484" tvg-name="Zee Cinema" group-title="Movies" tvg-chno="84" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=484
+#EXTINF:0 tvg-id="485" tvg-name="Enterr 10" group-title="Entertainment" tvg-chno="85" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",Enterr 10
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=485
+#EXTINF:0 tvg-id="486" tvg-name="Bhojpuri Cinema" group-title="Movies" tvg-chno="86" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png",Bhojpuri Cinema
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=486
+#EXTINF:0 tvg-id="487" tvg-name="Zee Bollywood" group-title="Movies" tvg-chno="87" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=487
+#EXTINF:0 tvg-id="488" tvg-name="Zee Action" group-title="Movies" tvg-chno="88" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=488
+#EXTINF:0 tvg-id="498" tvg-name="India news" group-title="News" tvg-chno="97" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=498&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India news
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=498
+#EXTINF:0 tvg-id="499" tvg-name="News Nation" group-title="News" tvg-chno="98" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=499&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News Nation
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=499
+#EXTINF:0 tvg-id="501" tvg-name="News 24" group-title="News" tvg-chno="99" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=501&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News 24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=501
+#EXTINF:0 tvg-id="502" tvg-name="Good News Today" group-title="News" tvg-chno="100" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=502&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Good News Today
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=502
+#EXTINF:0 tvg-id="503" tvg-name="IBC24" group-title="News" tvg-chno="101" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=503&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",IBC24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=503
+#EXTINF:0 tvg-id="504" tvg-name="Zee News" group-title="News" tvg-chno="102" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=504
+#EXTINF:0 tvg-id="506" tvg-name="Sahara Samay Rastriya" group-title="News" tvg-chno="103" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=506&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sahara Samay Rastriya
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=506
+#EXTINF:0 tvg-id="507" tvg-name="SAHARA SAMAY MP" group-title="News" tvg-chno="104" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=507&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",SAHARA SAMAY MP
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=507
+#EXTINF:0 tvg-id="508" tvg-name="SAHARA SAMAY UP" group-title="News" tvg-chno="105" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=508&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",SAHARA SAMAY UP
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=508
+#EXTINF:0 tvg-id="509" tvg-name="Sahara Samay Bihar" group-title="News" tvg-chno="106" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=509&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sahara Samay Bihar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=509
+#EXTINF:0 tvg-id="510" tvg-name="VIP News" group-title="News" tvg-chno="107" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VIP_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=510&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",VIP News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=510
+#EXTINF:0 tvg-id="511" tvg-name="Mh One News" group-title="News" tvg-chno="108" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png",Mh One News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=511
+#EXTINF:0 tvg-id="512" tvg-name="India News UP" group-title="News" tvg-chno="109" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=512&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India News UP
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=512
+#EXTINF:0 tvg-id="513" tvg-name="India News Rajasthan" group-title="News" tvg-chno="110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=513&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India News Rajasthan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=513
+#EXTINF:0 tvg-id="515" tvg-name="India News MP" group-title="News" tvg-chno="112" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=515&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India News MP
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=515
+#EXTINF:0 tvg-id="516" tvg-name="India News Haryana" group-title="News" tvg-chno="113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=516&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India News Haryana
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=516
+#EXTINF:0 tvg-id="518" tvg-name="Sudarshan" group-title="News" tvg-chno="115" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=518&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sudarshan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=518
+#EXTINF:0 tvg-id="519" tvg-name="Sadhna News Plus" group-title="News" tvg-chno="116" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=519&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sadhna News Plus
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=519
+#EXTINF:0 tvg-id="520" tvg-name="Sansad TV HD" group-title="News" tvg-chno="117" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",Sansad TV HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=520
+#EXTINF:0 tvg-id="522" tvg-name="Sansad TV" group-title="News" tvg-chno="118" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png",Sansad TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=522
+#EXTINF:0 tvg-id="ts171" tvg-name="Sony Ten 3 Hindi" group-title="Sports" tvg-chno="120" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",Sony Ten 3 Hindi
+https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:0 tvg-id="527" tvg-name="Investigation Discovery" group-title="Entertainment" tvg-chno="122" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=527&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Investigation Discovery
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=527
+#EXTINF:0 tvg-id="528" tvg-name="DD India" group-title="Entertainment" tvg-chno="123" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=528&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",DD India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=528
+#EXTINF:0 tvg-id="529" tvg-name="News18 MP" group-title="News" tvg-chno="124" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=529&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News18 MP
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=529
+#EXTINF:0 tvg-id="530" tvg-name="News18 UP" group-title="News" tvg-chno="125" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=530&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News18 UP
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=530
+#EXTINF:0 tvg-id="531" tvg-name="News18 RAJASTHAN" group-title="News" tvg-chno="126" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=531&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News18 RAJASTHAN
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=531
+#EXTINF:0 tvg-id="532" tvg-name="Dabangg" group-title="Entertainment" tvg-chno="127" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Dabangg
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=532
+#EXTINF:0 tvg-id="533" tvg-name="Raj Pariwar" group-title="Entertainment" tvg-chno="128" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=533&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Raj Pariwar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=533
+#EXTINF:0 tvg-id="535" tvg-name="Dhamaal TV" group-title="Entertainment" tvg-chno="129" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png",Dhamaal TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=535
+#EXTINF:0 tvg-id="536" tvg-name="DD Madhya Pradesh" group-title="Entertainment" tvg-chno="130" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png",DD Madhya Pradesh
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=536
+#EXTINF:0 tvg-id="538" tvg-name="DD Rajasthan (Jaipur)" group-title="Entertainment" tvg-chno="131" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png",DD Rajasthan (Jaipur)
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=538
+#EXTINF:0 tvg-id="539" tvg-name="DD Bihar" group-title="Entertainment" tvg-chno="132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png",DD Bihar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=539
+#EXTINF:0 tvg-id="540" tvg-name="DD Uttar Pradesh" group-title="Entertainment" tvg-chno="133" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png",DD Uttar Pradesh
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=540
+#EXTINF:0 tvg-id="545" tvg-name="Nick Hindi" group-title="Kids" tvg-chno="138" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=545
+#EXTINF:0 tvg-id="548" tvg-name="Nickelodeon Jr." group-title="Kids" tvg-chno="140" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png",Nickelodeon Jr.
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=548
+#EXTINF:0 tvg-id="554" tvg-name="Discovery Kids 2" group-title="Kids" tvg-chno="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Discovery Kids 2
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
+#EXTINF:0 tvg-id="559" tvg-name="Pogo Hindi" group-title="Kids" tvg-chno="148" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=559
+#EXTINF:0 tvg-id="561" tvg-name="Food Food" group-title="Lifestyle" tvg-chno="150" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Food Food
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
+#EXTINF:0 tvg-id="562" tvg-name="Travelxp HD Hindi" group-title="Lifestyle" tvg-chno="151" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=562&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Travelxp HD Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=562
+#EXTINF:0 tvg-id="566" tvg-name="Animal Planet Hindi" group-title="Infotainment" tvg-chno="154" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Animal Planet Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566
+#EXTINF:0 tvg-id="571" tvg-name="TLC Hindi" group-title="Lifestyle" tvg-chno="159" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=571&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TLC Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=571
+#EXTINF:0 tvg-id="572" tvg-name="Zee UP UK" group-title="News" tvg-chno="160" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png",Zee UP UK
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=572
+#EXTINF:0 tvg-id="575" tvg-name="Discovery Hindi" group-title="Infotainment" tvg-chno="163" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Discovery Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575
+#EXTINF:0 tvg-id="578" tvg-name="History TV18 HD Hindi" group-title="Infotainment" tvg-chno="166" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",History TV18 HD Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578
+#EXTINF:0 tvg-id="580" tvg-name="DD bharati" group-title="Infotainment" tvg-chno="168" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=580&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",DD bharati
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=580
+#EXTINF:0 tvg-id="583" tvg-name="DD Kisan" group-title="Infotainment" tvg-chno="169" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png",DD Kisan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=583
+#EXTINF:0 tvg-id="584" tvg-name="Mastiii" group-title="Music" tvg-chno="170" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=584
+#EXTINF:0 tvg-id="585" tvg-name="Zing" group-title="Music" tvg-chno="171" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=585
+#EXTINF:0 tvg-id="587" tvg-name="9XM" group-title="Music" tvg-chno="172" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=587
+#EXTINF:0 tvg-id="591" tvg-name="E 24" group-title="Music" tvg-chno="173" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=591&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",E 24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=591
+#EXTINF:0 tvg-id="592" tvg-name="ZOOM" group-title="Music" tvg-chno="174" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=592&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ZOOM
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=592
+#EXTINF:0 tvg-id="593" tvg-name="Sadhna" group-title="Devotional" tvg-chno="175" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=593&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sadhna
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=593
+#EXTINF:0 tvg-id="594" tvg-name="Aastha Bhajan" group-title="Devotional" tvg-chno="176" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=594&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Aastha Bhajan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=594
+#EXTINF:0 tvg-id="596" tvg-name="Jinvani TV" group-title="Devotional" tvg-chno="177" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=596&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jinvani TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=596
+#EXTINF:0 tvg-id="597" tvg-name="Satsang TV" group-title="Devotional" tvg-chno="178" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=597&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Satsang TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=597
+#EXTINF:0 tvg-id="599" tvg-name="Disha tv" group-title="Devotional" tvg-chno="180" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=599&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Disha tv
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=599
+#EXTINF:0 tvg-id="601" tvg-name="Ishwar TV" group-title="Devotional" tvg-chno="181" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ishwar_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=601&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Ishwar TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=601
+#EXTINF:0 tvg-id="602" tvg-name="Paras tv" group-title="Devotional" tvg-chno="182" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=602&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Paras tv
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=602
+#EXTINF:0 tvg-id="608" tvg-name="Shubhsandesh TV" group-title="Devotional" tvg-chno="187" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=608&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shubhsandesh TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=608
+#EXTINF:0 tvg-id="611" tvg-name="Darshan 24" group-title="Devotional" tvg-chno="189" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=611&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Darshan 24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=611
+#EXTINF:0 tvg-id="652" tvg-name="Zee Bharat" group-title="News" tvg-chno="224" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png",Zee Bharat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=652
+#EXTINF:0 tvg-id="655" tvg-name="News18 Punjab Haryana" group-title="News" tvg-chno="227" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=655&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News18 Punjab Haryana
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=655
+#EXTINF:0 tvg-id="657" tvg-name="Zee Business" group-title="Business News" tvg-chno="229" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=657
+#EXTINF:0 tvg-id="658" tvg-name="Zee News MP Chattisgarh" group-title="News" tvg-chno="230" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png",Zee News MP Chattisgarh
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=658
+#EXTINF:0 tvg-id="659" tvg-name="Zee Rajasthan" group-title="News" tvg-chno="231" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png",Zee Rajasthan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=659
+#EXTINF:0 tvg-id="661" tvg-name="Zee Bihar Jharkhand" group-title="News" tvg-chno="232" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png",Zee Bihar Jharkhand
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=661
+#EXTINF:0 tvg-id="693" tvg-name="News18 BIHAR" group-title="News" tvg-chno="256" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=693&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News18 BIHAR
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=693
+#EXTINF:0 tvg-id="701" tvg-name="Dangal" group-title="Entertainment" tvg-chno="263" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",Dangal
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=701
+#EXTINF:0 tvg-id="724" tvg-name="Zee Delhi NCR Haryana" group-title="News" tvg-chno="282" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png",Zee Delhi NCR Haryana
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=724
+#EXTINF:0 tvg-id="741" tvg-name="Sangeet Bhojpuri" group-title="Music" tvg-chno="298" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png",Sangeet Bhojpuri
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=741
+#EXTINF:0 tvg-id="753" tvg-name="MTV Beats HD" group-title="Music" tvg-chno="304" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=753
+#EXTINF:0 tvg-id="768" tvg-name="Jan TV" group-title="News" tvg-chno="311" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=768&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jan TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=768
+#EXTINF:0 tvg-id="770" tvg-name="Kashish News" group-title="News" tvg-chno="313" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=770&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Kashish News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=770
+#EXTINF:0 tvg-id="771" tvg-name="Live Today" group-title="News" tvg-chno="314" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=771&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Live Today
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=771
+#EXTINF:0 tvg-id="783" tvg-name="K News India" group-title="News" tvg-chno="326" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=783&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",K News India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=783
+#EXTINF:0 tvg-id="788" tvg-name="India Voice" group-title="News" tvg-chno="331" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=788&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India Voice
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=788
+#EXTINF:0 tvg-id="789" tvg-name="JK 24x7 News" group-title="News" tvg-chno="332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/JK_24x7_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=789&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",JK 24x7 News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=789
+#EXTINF:0 tvg-id="791" tvg-name="Taaza TV" group-title="News" tvg-chno="334" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=791&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Taaza TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=791
+#EXTINF:0 tvg-id="792" tvg-name="News State UK UP" group-title="News" tvg-chno="335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=792&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News State UK UP
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=792
+#EXTINF:0 tvg-id="793" tvg-name="Sahara Samay Rajasthan" group-title="News" tvg-chno="336" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rajasthan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=793&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sahara Samay Rajasthan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=793
+#EXTINF:0 tvg-id="794" tvg-name="Peace of Mind" group-title="Devotional" tvg-chno="337" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=794&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Peace of Mind
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=794
+#EXTINF:0 tvg-id="795" tvg-name="testa" group-title="Lifestyle" tvg-chno="338" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness.png",testa
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=795
+#EXTINF:0 tvg-id="801" tvg-name="Divya TV" group-title="Devotional" tvg-chno="342" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=801&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Divya TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=801
+#EXTINF:0 tvg-id="804" tvg-name="Samachar Plus" group-title="News" tvg-chno="344" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=804&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Samachar Plus
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=804
+#EXTINF:0 tvg-id="808" tvg-name="Hindi Khabar" group-title="News" tvg-chno="346" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=808&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Hindi Khabar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=808
+#EXTINF:0 tvg-id="809" tvg-name="Maha Movies" group-title="Movies" tvg-chno="347" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=809&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Maha Movies
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=809
+#EXTINF:0 tvg-id="815" tvg-name="Sonic Hindi" group-title="Kids" tvg-chno="350" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=815
+#EXTINF:0 tvg-id="816" tvg-name="Cartoon Network Hindi" group-title="Kids" tvg-chno="351" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=816
+#EXTINF:0 tvg-id="828" tvg-name="Shubh TV" group-title="Devotional" tvg-chno="355" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=828&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shubh TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=828
+#EXTINF:0 tvg-id="831" tvg-name="Living India News" group-title="News" tvg-chno="358" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=831&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Living India News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=831
+#EXTINF:0 tvg-id="846" tvg-name="MKN News" group-title="News" tvg-chno="366" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=846&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",MKN News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=846
+#EXTINF:0 tvg-id="850" tvg-name="News India 24x7" group-title="News" tvg-chno="368" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_India_24_X_7.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=850&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News India 24x7
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=850
+#EXTINF:0 tvg-id="851" tvg-name="SMBC TV" group-title="News" tvg-chno="369" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=851&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",SMBC TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=851
+#EXTINF:0 tvg-id="855" tvg-name="Total TV" group-title="News" tvg-chno="370" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=855&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Total TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=855
+#EXTINF:0 tvg-id="856" tvg-name="Vedic TV" group-title="Devotional" tvg-chno="371" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vedic_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=856&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Vedic TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=856
+#EXTINF:0 tvg-id="871" tvg-name="Jio Events HD" group-title="Infotainment" tvg-chno="375" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=871&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jio Events HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=871
+#EXTINF:0 tvg-id="ts45" tvg-name="Sony Yay Hindi" group-title="Kids" tvg-chno="376" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=872&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Yay Hindi
+https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:0 tvg-id="879" tvg-name="Hare krsna" group-title="Devotional" tvg-chno="381" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Harekrsna.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=879&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Hare krsna
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=879
+#EXTINF:0 tvg-id="880" tvg-name="Janta TV" group-title="News" tvg-chno="382" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janta_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=880&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Janta TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=880
+#EXTINF:0 tvg-id="882" tvg-name="News11" group-title="News" tvg-chno="383" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News11.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=882&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News11
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=882
+#EXTINF:0 tvg-id="883" tvg-name="Oscar Movies" group-title="Movies" tvg-chno="384" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=883&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Oscar Movies
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=883
+#EXTINF:0 tvg-id="887" tvg-name="Swar Shree" group-title="Devotional" tvg-chno="387" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Garv_Swaminarayan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=887&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Swar Shree
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=887
+#EXTINF:0 tvg-id="ts464" tvg-name="Sony Ten 3 HD Hindi" group-title="Sports" tvg-chno="390" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD Hindi
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:0 tvg-id="915" tvg-name="Khabar Fast" group-title="News" tvg-chno="407" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Khabar_Fast.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=915&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Khabar Fast
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=915
+#EXTINF:0 tvg-id="916" tvg-name="TV 100" group-title="News" tvg-chno="408" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_100.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=916&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TV 100
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=916
+#EXTINF:0 tvg-id="917" tvg-name="APN News" group-title="News" tvg-chno="409" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/APN_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=917&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",APN News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=917
+#EXTINF:0 tvg-id="918" tvg-name="Bharat Samachar" group-title="News" tvg-chno="410" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=918&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bharat Samachar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=918
+#EXTINF:0 tvg-id="921" tvg-name="Prime News" group-title="News" tvg-chno="411" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=921&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Prime News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=921
+#EXTINF:0 tvg-id="926" tvg-name="A1 TV Rajasthan" group-title="News" tvg-chno="414" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/A1_TV_Rajasthan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=926&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",A1 TV Rajasthan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=926
+#EXTINF:0 tvg-id="927" tvg-name="First India News" group-title="News" tvg-chno="415" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png",First India News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=927
+#EXTINF:0 tvg-id="936" tvg-name="News 1 India" group-title="News" tvg-chno="420" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_1_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=936&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News 1 India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=936
+#EXTINF:0 tvg-id="939" tvg-name="Bhaktisagar 2" group-title="Devotional" tvg-chno="423" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaktisagar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=939&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bhaktisagar 2
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=939
+#EXTINF:0 tvg-id="957" tvg-name="INH 24x7" group-title="News" tvg-chno="432" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/INH_24x7.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=957&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",INH 24x7
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=957
+#EXTINF:0 tvg-id="958" tvg-name="DNN" group-title="News" tvg-chno="433" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=958&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",DNN
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=958
+#EXTINF:0 tvg-id="962" tvg-name="Boogle Bollywood" group-title="Music" tvg-chno="437" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=962&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Boogle Bollywood
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=962
+#EXTINF:0 tvg-id="963" tvg-name="Arre HD" group-title="Entertainment" tvg-chno="438" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=963&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Arre HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=963
+#EXTINF:0 tvg-id="964" tvg-name="Om Shanti" group-title="Devotional" tvg-chno="439" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Om_Shanti.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=964&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Om Shanti
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=964
+#EXTINF:0 tvg-id="966" tvg-name="Prudent" group-title="News" tvg-chno="441" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PrudentHD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=966&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Prudent
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=966
+#EXTINF:0 tvg-id="972" tvg-name="Sarv Dharam Sangam" group-title="Devotional" tvg-chno="443" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=972&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sarv Dharam Sangam
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=972
+#EXTINF:0 tvg-id="975" tvg-name="Jantantra" group-title="News" tvg-chno="444" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jantantra.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=975&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jantantra
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=975
+#EXTINF:0 tvg-id="978" tvg-name="TEST1 HD" group-title="Entertainment" tvg-chno="446" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST1_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=978&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TEST1 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=978
+#EXTINF:0 tvg-id="979" tvg-name="TEST2 HD" group-title="Entertainment" tvg-chno="447" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST2_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=979&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TEST2 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=979
+#EXTINF:0 tvg-id="1059" tvg-name="TEST3 HD" group-title="News" tvg-chno="468" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST3_HD.png",TEST3 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1059
+#EXTINF:0 tvg-id="1077" tvg-name="Sharnam TV" group-title="Devotional" tvg-chno="476" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sharnam_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1077&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sharnam TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1077
+#EXTINF:0 tvg-id="1078" tvg-name="Soham TV" group-title="Devotional" tvg-chno="477" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Soham_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1078&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Soham TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1078
+#EXTINF:0 tvg-id="1103" tvg-name="PEACE MUSIC" group-title="Music" tvg-chno="495" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PEACE_MUSIC.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1103&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",PEACE MUSIC
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1103
+#EXTINF:0 tvg-id="1145" tvg-name="MTV HD Plus" group-title="Music" tvg-chno="496" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1145
+#EXTINF:0 tvg-id="1175" tvg-name="Awakening" group-title="Devotional" tvg-chno="508" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Awakening.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1175&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Awakening
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1175
+#EXTINF:0 tvg-id="1179" tvg-name="Bansal News" group-title="News" tvg-chno="509" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1179&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bansal News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1179
+#EXTINF:0 tvg-id="1185" tvg-name="Swadesh News" group-title="News" tvg-chno="511" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swadesh_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1185&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Swadesh News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1185
+#EXTINF:0 tvg-id="1193" tvg-name="Hare Krsna Music" group-title="Devotional" tvg-chno="519" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hare_Krsna_music.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1193&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Hare Krsna Music
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1193
+#EXTINF:0 tvg-id="1205" tvg-name="ABP Ganga" group-title="News" tvg-chno="521" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1205&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ABP Ganga
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1205
+#EXTINF:0 tvg-id="1212" tvg-name="Hare Krsna Pravachan" group-title="Devotional" tvg-chno="524" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hare_Krsna_Pravachan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1212&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Hare Krsna Pravachan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1212
+#EXTINF:0 tvg-id="1220" tvg-name="Rajyoga TV" group-title="Devotional" tvg-chno="527" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rajyoga_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1220&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Rajyoga TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1220
+#EXTINF:0 tvg-id="1222" tvg-name="Mandir Shri Govinddevji-Jaipur" group-title="Devotional" tvg-chno="529" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/GovindDevji_Jaipur.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1222&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Mandir Shri Govinddevji-Jaipur
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1222
+#EXTINF:0 tvg-id="1224" tvg-name="Nimbark TV" group-title="Devotional" tvg-chno="531" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nimbark.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1224&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Nimbark TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1224
+#EXTINF:0 tvg-id="1249" tvg-name="Kadak Hits" group-title="Music" tvg-chno="543" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1249&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Kadak Hits
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1249
+#EXTINF:0 tvg-id="1251" tvg-name="TV9 Bharatvarsh" group-title="News" tvg-chno="545" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1251&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TV9 Bharatvarsh
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1251
+#EXTINF:0 tvg-id="1257" tvg-name="Surya Samachar" group-title="News" tvg-chno="550" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png",Surya Samachar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1257
+#EXTINF:0 tvg-id="1263" tvg-name="Total Tv Haryana" group-title="News" tvg-chno="553" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1263&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Total Tv Haryana
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1263
+#EXTINF:0 tvg-id="1278" tvg-name="Prarthana Bhawan" group-title="Devotional" tvg-chno="559" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Bhawan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1278&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Prarthana Bhawan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1278
+#EXTINF:0 tvg-id="1286" tvg-name="Insync" group-title="Music" tvg-chno="561" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1286&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Insync
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1286
+#EXTINF:0 tvg-id="1287" tvg-name="ANB News" group-title="News" tvg-chno="562" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ANBNews.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1287&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ANB News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1287
+#EXTINF:0 tvg-id="1292" tvg-name="Wellness" group-title="Lifestyle" tvg-chno="564" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1292&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Wellness
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1292
+#EXTINF:0 tvg-id="1295" tvg-name="B4U Kadak" group-title="Movies" tvg-chno="567" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png",B4U Kadak
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1295
+#EXTINF:0 tvg-id="1296" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-chno="568" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",B4U Bhojpuri
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1296
+#EXTINF:0 tvg-id="1328" tvg-name="DD Arunprabha" group-title="Entertainment" tvg-chno="577" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Arunprabha.png",DD Arunprabha
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1328
+#EXTINF:0 tvg-id="1329" tvg-name="DD Gyandarshan" group-title="Entertainment" tvg-chno="578" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Gyandarshan.png",DD Gyandarshan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1329
+#EXTINF:0 tvg-id="1351" tvg-name="Zee TV" group-title="Entertainment" tvg-chno="588" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1351
+#EXTINF:0 tvg-id="1359" tvg-name="Big Magic" group-title="Entertainment" tvg-chno="592" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1359
+#EXTINF:0 tvg-id="1368" tvg-name="Colors SD" group-title="Entertainment" tvg-chno="597" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1368&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors SD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1368
+#EXTINF:0 tvg-id="ts56" tvg-name="Sony Wah" group-title="Entertainment" tvg-chno="603" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1393&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Wah
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:0 tvg-id="1396" tvg-name="Set SD" group-title="Entertainment" tvg-chno="605" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1396&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Set SD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1396
+#EXTINF:0 tvg-id="1400" tvg-name="MTV Beats SD" group-title="Music" tvg-chno="606" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",MTV Beats SD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1400
+#EXTINF:0 tvg-id="1403" tvg-name="Republic Bharat" group-title="News" tvg-chno="607" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_Bharat.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1403&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Republic Bharat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1403
+#EXTINF:0 tvg-id="1407" tvg-name="Sai Leela" group-title="Devotional" tvg-chno="609" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_Leela.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1407&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sai Leela
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1407
+#EXTINF:0 tvg-id="1411" tvg-name="SongDew TV" group-title="Music" tvg-chno="612" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1411&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",SongDew TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1411
+#EXTINF:0 tvg-id="1414" tvg-name="Prati Shirdi Saibaba" group-title="Devotional" tvg-chno="614" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prati_Shirdi_Saibaba.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1414&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Prati Shirdi Saibaba
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1414
+#EXTINF:0 tvg-id="1415" tvg-name="Ganga Darshan Varanasi" group-title="Devotional" tvg-chno="615" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ganga_Darshan_Varanasi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1415&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Ganga Darshan Varanasi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1415
+#EXTINF:0 tvg-id="1418" tvg-name="Ichhapuran Balaji Rajasthan" group-title="Devotional" tvg-chno="617" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ichhapuran_Balaji_Rajasthan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1418&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Ichhapuran Balaji Rajasthan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1418
+#EXTINF:0 tvg-id="1421" tvg-name="Karani Mata Rajasthan" group-title="Devotional" tvg-chno="620" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1421&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Karani Mata Rajasthan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1421
+#EXTINF:0 tvg-id="1426" tvg-name="Santvani" group-title="Devotional" tvg-chno="624" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1426&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Santvani
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1426
+#EXTINF:0 tvg-id="1430" tvg-name="Jio KIDS" group-title="Kids" tvg-chno="628" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1430&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jio KIDS
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1430
+#EXTINF:0 tvg-id="1434" tvg-name="Utkarsh Primary" group-title="Educational" tvg-chno="631" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Primary.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1434&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Utkarsh Primary
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1434
+#EXTINF:0 tvg-id="1435" tvg-name="Utkarsh HSBTE" group-title="Educational" tvg-chno="632" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Middle.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1435&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Utkarsh HSBTE
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1435
+#EXTINF:0 tvg-id="1436" tvg-name="Utkarsh Secondary" group-title="Educational" tvg-chno="633" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Secondary.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1436&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Utkarsh Secondary
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1436
+#EXTINF:0 tvg-id="1437" tvg-name="Utkarsh Higher" group-title="Educational" tvg-chno="634" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Higher.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1437&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Utkarsh Higher
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1437
+#EXTINF:0 tvg-id="1440" tvg-name="Krishna Vani" group-title="Devotional" tvg-chno="636" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Krishna_Vani.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1440&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Krishna Vani
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1440
+#EXTINF:0 tvg-id="1450" tvg-name="Colors Cineplex Superhit" group-title="Movies" tvg-chno="639" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1450&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex Superhit
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1450
+#EXTINF:0 tvg-id="1451" tvg-name="9 Bharat Samachar" group-title="News" tvg-chno="640" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1451&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",9 Bharat Samachar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1451
+#EXTINF:0 tvg-id="1463" tvg-name="Shree Ganesh - Moti Doongri Jaipur" group-title="Devotional" tvg-chno="648" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moti_Doongri.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1463&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shree Ganesh - Moti Doongri Jaipur
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1463
+#EXTINF:0 tvg-id="1477" tvg-name="Colors Cineplex HD" group-title="Movies" tvg-chno="651" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477
+#EXTINF:0 tvg-id="1482" tvg-name="AMMA TV" group-title="Devotional" tvg-chno="653" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amma.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1482&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",AMMA TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1482
+#EXTINF:0 tvg-id="1525" tvg-name="TEST13 HD" group-title="News" tvg-chno="660" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST13_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1525&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TEST13 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1525
+#EXTINF:0 tvg-id="1528" tvg-name="Network 10" group-title="News" tvg-chno="662" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Network_10.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1528&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Network 10
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1528
+#EXTINF:0 tvg-id="1531" tvg-name="Gyanvani 1" group-title="Educational" tvg-chno="665" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_1.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1531&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Gyanvani 1
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1531
+#EXTINF:0 tvg-id="1543" tvg-name="Subharti" group-title="Devotional" tvg-chno="671" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Subharti.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1543&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Subharti
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1543
+#EXTINF:0 tvg-id="1549" tvg-name="Dharm Granth TV" group-title="Devotional" tvg-chno="673" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DharmaGranth_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1549&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Dharm Granth TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1549
+#EXTINF:0 tvg-id="1550" tvg-name="AB News" group-title="News" tvg-chno="674" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png",AB News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1550
+#EXTINF:0 tvg-id="1551" tvg-name="P News" group-title="News" tvg-chno="675" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/P_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1551&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",P News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1551
+#EXTINF:0 tvg-id="1553" tvg-name="AB Star News" group-title="News" tvg-chno="677" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABSTAR_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1553&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",AB Star News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1553
+#EXTINF:0 tvg-id="1554" tvg-name="Sanatan TV" group-title="Devotional" tvg-chno="678" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanatan_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1554&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sanatan TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1554
+#EXTINF:0 tvg-id="1559" tvg-name="Jigyasa TV" group-title="Devotional" tvg-chno="681" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jigyasa_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1559&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jigyasa TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1559
+#EXTINF:0 tvg-id="1560" tvg-name="35mm" group-title="Devotional" tvg-chno="682" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/35mm.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1560&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",35mm
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1560
+#EXTINF:0 tvg-id="1562" tvg-name="Himshiksha Elementary" group-title="Educational" tvg-chno="684" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Elementary.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1562&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Himshiksha Elementary
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1562
+#EXTINF:0 tvg-id="1563" tvg-name="Himshiksha Higher" group-title="Educational" tvg-chno="685" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Higher.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1563&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Himshiksha Higher
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1563
+#EXTINF:0 tvg-id="1564" tvg-name="Himshiksha Vocational" group-title="Educational" tvg-chno="686" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Vocational.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1564&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Himshiksha Vocational
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1564
+#EXTINF:0 tvg-id="1568" tvg-name="Atmadarshan TV" group-title="Devotional" tvg-chno="690" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Atmadarshan_TV.png",Atmadarshan TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1568
+#EXTINF:0 tvg-id="1590" tvg-name="Sanskrit" group-title="Educational" tvg-chno="691" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskritam.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1590&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sanskrit
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1590
+#EXTINF:0 tvg-id="1594" tvg-name="Samachar 24" group-title="News" tvg-chno="693" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_24.png",Samachar 24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1594
+#EXTINF:0 tvg-id="1607" tvg-name="Manav Dharam" group-title="Devotional" tvg-chno="696" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manav_Dharam.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1607&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Manav Dharam
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1607
+#EXTINF:0 tvg-id="1608" tvg-name="MP News" group-title="News" tvg-chno="697" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MP_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1608&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",MP News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1608
+#EXTINF:0 tvg-id="1609" tvg-name="Ishvani TV" group-title="Devotional" tvg-chno="698" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ishvani_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1609&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Ishvani TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1609
+#EXTINF:0 tvg-id="1613" tvg-name="Medha Secondary" group-title="Educational" tvg-chno="701" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Medha_Secondary.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1613&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Medha Secondary
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1613
+#EXTINF:0 tvg-id="1635" tvg-name="News State MPCG " group-title="News" tvg-chno="707" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_MPCG.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1635&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News State MPCG 
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1635
+#EXTINF:0 tvg-id="1668" tvg-name="&Xplore HD" group-title="Movies" tvg-chno="719" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Xplore_HD.png",&Xplore HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1668
+#EXTINF:0 tvg-id="1670" tvg-name="C News Bharat" group-title="News" tvg-chno="721" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/C_News_Bharat.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1670&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",C News Bharat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1670
+#EXTINF:0 tvg-id="1673" tvg-name="PTD Chhattisgarrh" group-title="Educational" tvg-chno="723" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTD_Chhattisgarrh.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1673&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",PTD Chhattisgarrh
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1673
+#EXTINF:0 tvg-id="1691" tvg-name="Zee Classic" group-title="Movies" tvg-chno="726" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic_SD.png",Zee Classic
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1691
+#EXTINF:0 tvg-id="1694" tvg-name="Haryana Beats" group-title="Music" tvg-chno="728" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Haryana_Beats.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1694&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Haryana Beats
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1694
+#EXTINF:0 tvg-id="1695" tvg-name="Prime TV" group-title="News" tvg-chno="729" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1695&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Prime TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1695
+#EXTINF:0 tvg-id="1697" tvg-name="FM News" group-title="News" tvg-chno="730" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/FM_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1697&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",FM News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1697
+#EXTINF:0 tvg-id="1698" tvg-name="IND 24" group-title="News" tvg-chno="731" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IND_24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1698&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",IND 24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1698
+#EXTINF:0 tvg-id="1728" tvg-name="Anaadi TV" group-title="News" tvg-chno="737" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Anaadi_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1728&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Anaadi TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1728
+#EXTINF:0 tvg-id="1739" tvg-name="JKAC News" group-title="Entertainment" tvg-chno="744" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/V24_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1739&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",JKAC News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1739
+#EXTINF:0 tvg-id="1741" tvg-name="Bharat AtoZ" group-title="News" tvg-chno="746" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_AtoZ.png",Bharat AtoZ
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1741
+#EXTINF:0 tvg-id="1742" tvg-name="Sanskrit Ganga" group-title="Devotional" tvg-chno="747" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskrit_Ganga_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1742&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sanskrit Ganga
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1742
+#EXTINF:0 tvg-id="1745" tvg-name="Zee Bioskope SD" group-title="Movies" tvg-chno="749" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png",Zee Bioskope SD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1745
+#EXTINF:0 tvg-id="1758" tvg-name="DPK News" group-title="News" tvg-chno="755" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DPK_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1758&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",DPK News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1758
+#EXTINF:0 tvg-id="1761" tvg-name="Aryan TV National" group-title="News" tvg-chno="757" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aryan_TV_National.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1761&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Aryan TV National
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1761
+#EXTINF:0 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" group-title="Movies" tvg-chno="759" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1763&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex Bollywood
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1763
+#EXTINF:0 tvg-id="1764" tvg-name="Dada Bhagwan Foundation" group-title="Devotional" tvg-chno="760" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dadabhagwan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1764&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Dada Bhagwan Foundation
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1764
+#EXTINF:0 tvg-id="1777" tvg-name="Bharat News TV" group-title="News" tvg-chno="766" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1777&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bharat News TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1777
+#EXTINF:0 tvg-id="1788" tvg-name="Yeshuaa TV" group-title="Devotional" tvg-chno="769" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Yeshuaa.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1788&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Yeshuaa TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1788
+#EXTINF:0 tvg-id="1791" tvg-name="KP News 24x7" group-title="News" tvg-chno="771" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KPNews.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1791&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",KP News 24x7
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1791
+#EXTINF:0 tvg-id="1793" tvg-name="National News Sattaxpress" group-title="News" tvg-chno="772" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_News_Sattaxpress.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1793&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",National News Sattaxpress
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1793
+#EXTINF:0 tvg-id="1794" tvg-name="Mangalmay Live" group-title="Devotional" tvg-chno="773" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mangalmaylive.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1794&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Mangalmay Live
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1794
+#EXTINF:0 tvg-id="1795" tvg-name="Shri Amarnathji Shrine Board" group-title="Devotional" tvg-chno="774" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Amarnath_Shrine_Board.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1795&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shri Amarnathji Shrine Board
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1795
+#EXTINF:0 tvg-id="1798" tvg-name="Pasand" group-title="Entertainment" tvg-chno="776" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1798&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Pasand
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1798
+#EXTINF:0 tvg-id="1802" tvg-name="News World India" group-title="News" tvg-chno="778" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_World_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1802&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News World India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1802
+#EXTINF:0 tvg-id="1804" tvg-name="Jan Setu News" group-title="News" tvg-chno="779" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_Setu_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1804&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jan Setu News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1804
+#EXTINF:0 tvg-id="1816" tvg-name="DTV Bharat" group-title="News" tvg-chno="780" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DTV_Bharat.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1816&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",DTV Bharat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1816
+#EXTINF:0 tvg-id="1817" tvg-name="NEWS 24 MPCG" group-title="News" tvg-chno="781" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1817&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",NEWS 24 MPCG
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1817
+#EXTINF:0 tvg-id="1834" tvg-name="Green Chillies" group-title="Entertainment" tvg-chno="784" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png",Green Chillies
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1834
+#EXTINF:0 tvg-id="1839" tvg-name="And Pictures" group-title="Movies" tvg-chno="785" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",And Pictures
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1839
+#EXTINF:0 tvg-id="1847" tvg-name="Z10 TV" group-title="News" tvg-chno="786" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Harpal_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1847&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Z10 TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1847
+#EXTINF:0 tvg-id="1853" tvg-name="News11 Bharat" group-title="News" tvg-chno="789" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News11_Bharat.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1853&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News11 Bharat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1853
+#EXTINF:0 tvg-id="1854" tvg-name="STV Haryana News" group-title="News" tvg-chno="790" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/STV_Haryana_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1854&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",STV Haryana News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1854
+#EXTINF:0 tvg-id="1885" tvg-name="Kripa TV" group-title="Devotional" tvg-chno="798" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kripa_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1885&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Kripa TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1885
+#EXTINF:0 tvg-id="1886" tvg-name="Sansad TV Rajya Sabha" group-title="News" tvg-chno="799" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png",Sansad TV Rajya Sabha
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1886
+#EXTINF:0 tvg-id="1895" tvg-name="Today 24 News" group-title="News" tvg-chno="801" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Today_24_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1895&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Today 24 News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1895
+#EXTINF:0 tvg-id="1896" tvg-name="News Flash" group-title="News" tvg-chno="802" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Flash.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1896&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News Flash
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1896
+#EXTINF:0 tvg-id="1897" tvg-name="Pulse 24" group-title="News" tvg-chno="803" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pulse_24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1897&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Pulse 24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1897
+#EXTINF:0 tvg-id="1898" tvg-name="GBN24" group-title="News" tvg-chno="804" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/GBN24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1898&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",GBN24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1898
+#EXTINF:0 tvg-id="1900" tvg-name="Express News Bharat" group-title="News" tvg-chno="805" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ENB.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1900&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Express News Bharat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1900
+#EXTINF:0 tvg-id="1901" tvg-name="Adhyatam TV" group-title="Devotional" tvg-chno="806" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adhyatam_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1901&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Adhyatam TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1901
+#EXTINF:0 tvg-id="1906" tvg-name="Times Now Navbharat" group-title="News" tvg-chno="807" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1906&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Times Now Navbharat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1906
+#EXTINF:0 tvg-id="1907" tvg-name="ET Now Swadesh" group-title="Business News" tvg-chno="808" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1907&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ET Now Swadesh
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1907
+#EXTINF:0 tvg-id="1920" tvg-name="The Q Kahaniyan" group-title="Kids" tvg-chno="810" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png",The Q Kahaniyan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1920
+#EXTINF:0 tvg-id="1925" tvg-name="MH1 Dil Se" group-title="Entertainment" tvg-chno="811" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MH1_DilSe.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1925&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",MH1 Dil Se
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1925
+#EXTINF:0 tvg-id="1926" tvg-name="Sanskriti 24x7" group-title="Devotional" tvg-chno="812" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskriti_24x7.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1926&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sanskriti 24x7
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1926
+#EXTINF:0 tvg-id="1955" tvg-name="Foodxp" group-title="Lifestyle" tvg-chno="815" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1955&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Foodxp
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1955
+#EXTINF:0 tvg-id="1959" tvg-name="Global India" group-title="News" tvg-chno="819" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Global_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1959&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Global India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1959
+#EXTINF:0 tvg-id="1961" tvg-name="Shemaroo TV" group-title="Entertainment" tvg-chno="820" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1961&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shemaroo TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1961
+#EXTINF:0 tvg-id="1963" tvg-name="News 24 Express" group-title="News" tvg-chno="822" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News24_Express.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1963&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News 24 Express
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1963
+#EXTINF:0 tvg-id="1964" tvg-name="ABC News" group-title="News" tvg-chno="823" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABC_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1964&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ABC News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1964
+#EXTINF:0 tvg-id="1965" tvg-name="VNM TV" group-title="News" tvg-chno="824" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VNM_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1965&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",VNM TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1965
+#EXTINF:0 tvg-id="1967" tvg-name="PMC Hindi" group-title="Devotional" tvg-chno="826" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1967&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",PMC Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1967
+#EXTINF:0 tvg-id="1998" tvg-name="Sports18 Khel" group-title="Sports" tvg-chno="834" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png",Sports18 Khel
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1998
+#EXTINF:0 tvg-id="1999" tvg-name="Raftaar Media" group-title="News" tvg-chno="835" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raftaar_Media.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1999&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Raftaar Media
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1999
+#EXTINF:0 tvg-id="2000" tvg-name="PlusTest1" group-title="Entertainment" tvg-chno="836" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PlusTest1.png",PlusTest1
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2000
+#EXTINF:0 tvg-id="2001" tvg-name="PlusTest2 HD" group-title="Entertainment" tvg-chno="837" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PlusTest2_HD.png",PlusTest2 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2001
+#EXTINF:0 tvg-id="2005" tvg-name="IN 24 News" group-title="News" tvg-chno="841" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Virat_24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2005&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",IN 24 News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2005
+#EXTINF:0 tvg-id="2008" tvg-name="News 21" group-title="News" tvg-chno="843" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_21.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2008&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News 21
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2008
+#EXTINF:0 tvg-id="2013" tvg-name="Leaking Top Secret" group-title="News" tvg-chno="847" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_S_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2013&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Leaking Top Secret
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2013
+#EXTINF:0 tvg-id="2014" tvg-name="News India TV" group-title="News" tvg-chno="848" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rajpath_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2014&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News India TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2014
+#EXTINF:0 tvg-id="2018" tvg-name="Samachar Nation" group-title="News" tvg-chno="852" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Nation.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2018&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Samachar Nation
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2018
+#EXTINF:0 tvg-id="2020" tvg-name="KKD News" group-title="News" tvg-chno="854" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KKD_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2020&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",KKD News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2020
+#EXTINF:0 tvg-id="2021" tvg-name="HNN 24x7" group-title="News" tvg-chno="855" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HNN24x7.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2021&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",HNN 24x7
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2021
+#EXTINF:0 tvg-id="2024" tvg-name="And TV" group-title="Entertainment" tvg-chno="857" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png",And TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2024
+#EXTINF:0 tvg-id="2029" tvg-name="Aaryaa Bhakti" group-title="Devotional" tvg-chno="860" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Bhakti.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2029&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Aaryaa Bhakti
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2029
+#EXTINF:0 tvg-id="2030" tvg-name="Aaryaa News" group-title="News" tvg-chno="861" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2030&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Aaryaa News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2030
+#EXTINF:0 tvg-id="2036" tvg-name="Dil Se" group-title="Music" tvg-chno="865" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dil_Se.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2036&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Dil Se
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2036
+#EXTINF:0 tvg-id="2037" tvg-name="Pop Pataka" group-title="Music" tvg-chno="866" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pop_Pataka.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2037&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Pop Pataka
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2037
+#EXTINF:0 tvg-id="2038" tvg-name="Dhamaal" group-title="Music" tvg-chno="867" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2038&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Dhamaal
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2038
+#EXTINF:0 tvg-id="2040" tvg-name="Bollywood Hungama" group-title="Entertainment" tvg-chno="869" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bollywood_Hungama.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2040&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bollywood Hungama
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2040
+#EXTINF:0 tvg-id="2041" tvg-name="Bhakti Sagar" group-title="Devotional" tvg-chno="870" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_Sagar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2041&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bhakti Sagar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2041
+#EXTINF:0 tvg-id="2042" tvg-name="Nazraana" group-title="Music" tvg-chno="871" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nazraana.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2042&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Nazraana
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2042
+#EXTINF:0 tvg-id="2043" tvg-name="Artist Aloud" group-title="Music" tvg-chno="872" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Artist_Aloud.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2043&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Artist Aloud
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2043
+#EXTINF:0 tvg-id="2063" tvg-name="RS Bharat" group-title="Music" tvg-chno="874" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RS_Bharat.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2063&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",RS Bharat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2063
+#EXTINF:0 tvg-id="2064" tvg-name="Merchant Records" group-title="Music" tvg-chno="875" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Merchant_Records.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2064&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Merchant Records
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2064
+#EXTINF:0 tvg-id="2065" tvg-name="Saregama Music" group-title="Music" tvg-chno="876" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Music.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2065&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Saregama Music
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2065
+#EXTINF:0 tvg-id="2074" tvg-name="Prime Media Goa" group-title="News" tvg-chno="877" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Media.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2074&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Prime Media Goa
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2074
+#EXTINF:0 tvg-id="2077" tvg-name="Gangaur" group-title="Entertainment" tvg-chno="878" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gangaur.png",Gangaur
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2077
+#EXTINF:0 tvg-id="2078" tvg-name="Shemaroo Umang" group-title="Entertainment" tvg-chno="879" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2078&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shemaroo Umang
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2078
+#EXTINF:0 tvg-id="2079" tvg-name="Bharat 24" group-title="News" tvg-chno="880" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_24.png",Bharat 24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2079
+#EXTINF:0 tvg-id="2081" tvg-name="TV27 News" group-title="News" tvg-chno="881" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV27_News.png",TV27 News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2081
+#EXTINF:0 tvg-id="2082" tvg-name="22Scope News" group-title="News" tvg-chno="882" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/22Scope_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2082&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",22Scope News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2082
+#EXTINF:0 tvg-id="2176" tvg-name="India 24x7" group-title="News" tvg-chno="883" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India24x7.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2176&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India 24x7
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2176
+#EXTINF:0 tvg-id="2177" tvg-name="Arya Sandesh TV" group-title="Devotional" tvg-chno="884" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Arya_Sandesh_Tv.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2177&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Arya Sandesh TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2177
+#EXTINF:0 tvg-id="2183" tvg-name="Q GameX" group-title="Sports" tvg-chno="885" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Q_GameX.png",Q GameX
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2183
+#EXTINF:0 tvg-id="2189" tvg-name="Aaryaa Cinema" group-title="Movies" tvg-chno="889" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Cinema.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2189&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Aaryaa Cinema
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2189
+#EXTINF:0 tvg-id="2192" tvg-name="Gurukul" group-title="Devotional" tvg-chno="890" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gurukul_Rajkot.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2192&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Gurukul
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2192
+#EXTINF:0 tvg-id="2225" tvg-name="TV24" group-title="News" tvg-chno="893" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV24.png",TV24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2225
+#EXTINF:0 tvg-id="2229" tvg-name="Bhojpuri Junction" group-title="Music" tvg-chno="896" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2229&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bhojpuri Junction
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2229
+#EXTINF:0 tvg-id="2233" tvg-name="News 80" group-title="News" tvg-chno="898" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News80.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2233&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News 80
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2233
+#EXTINF:0 tvg-id="2252" tvg-name="Desi Music Station" group-title="Music" tvg-chno="899" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2252&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Desi Music Station
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2252
+#EXTINF:0 tvg-id="2254" tvg-name="Media9" group-title="News" tvg-chno="901" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Media9.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2254&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Media9
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2254
+#EXTINF:0 tvg-id="2255" tvg-name="RRN News" group-title="News" tvg-chno="902" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RRN_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2255&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",RRN News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2255
+#EXTINF:0 tvg-id="2322" tvg-name="Divyalok TV" group-title="Devotional" tvg-chno="905" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divyalok_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2322&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Divyalok TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2322
+#EXTINF:0 tvg-id="2323" tvg-name="TTN24" group-title="News" tvg-chno="906" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TTN24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2323&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TTN24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2323
+#EXTINF:0 tvg-id="2352" tvg-name="Narikaa" group-title="Educational" tvg-chno="911" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Narikaa.png",Narikaa
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2352
+#EXTINF:0 tvg-id="2353" tvg-name="Bharat Express" group-title="News" tvg-chno="912" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Express.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2353&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bharat Express
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2353
+#EXTINF:0 tvg-id="2423" tvg-name="Vande Bharat News" group-title="News" tvg-chno="916" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Bharat.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2423&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Vande Bharat News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2423
+#EXTINF:0 tvg-id="2433" tvg-name="E News 79" group-title="News" tvg-chno="918" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/E_News79.png",E News 79
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2433
+#EXTINF:0 tvg-id="2448" tvg-name="Desika daya" group-title="Devotional" tvg-chno="923" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Desika_daya.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2448&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Desika daya
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2448
+#EXTINF:0 tvg-id="2734" tvg-name="Popular TV" group-title="News" tvg-chno="927" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Popular_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2734&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Popular TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2734
+#EXTINF:0 tvg-id="2735" tvg-name="Samachar Plus Jharkhand Bihar" group-title="News" tvg-chno="928" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus_Jh_Bihar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2735&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Samachar Plus Jharkhand Bihar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2735
+#EXTINF:0 tvg-id="2751" tvg-name="Saga Music Haryanvi" group-title="Music" tvg-chno="933" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2751&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Saga Music Haryanvi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2751
+#EXTINF:0 tvg-id="2753" tvg-name="YRF Music" group-title="Music" tvg-chno="935" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2753&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",YRF Music
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2753
+#EXTINF:0 tvg-id="2755" tvg-name="Saregama Hum Bhojpuri" group-title="Music" tvg-chno="937" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Hum_Bhojpuri.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2755&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Saregama Hum Bhojpuri
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2755
+#EXTINF:0 tvg-id="2760" tvg-name="My Bharat News" group-title="News" tvg-chno="941" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/My_Bharat_News.png",My Bharat News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2760
+#EXTINF:0 tvg-id="2761" tvg-name="Zee Anmol Cinema 2" group-title="Entertainment" tvg-chno="942" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Ganga.png",Zee Anmol Cinema 2
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2761
+#EXTINF:0 tvg-id="2762" tvg-name="NH Studioz" group-title="Movies" tvg-chno="943" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NH_Studioz.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2762&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",NH Studioz
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2762
+#EXTINF:0 tvg-id="2764" tvg-name="News State Bihar Jharkhand" group-title="News" tvg-chno="944" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NewsState_Bihar_JH.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2764&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News State Bihar Jharkhand
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2764
+#EXTINF:0 tvg-id="2765" tvg-name="BSTV" group-title="News" tvg-chno="945" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BSTV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2765&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",BSTV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2765
+#EXTINF:0 tvg-id="2767" tvg-name="Sacchi Report" group-title="News" tvg-chno="947" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sacchi_Report.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2767&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sacchi Report
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2767
+#EXTINF:0 tvg-id="2770" tvg-name="Har Khabar" group-title="News" tvg-chno="949" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Har_Khabar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2770&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Har Khabar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2770
+#EXTINF:0 tvg-id="2771" tvg-name="Sadhna News MP CG" group-title="News" tvg-chno="950" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_MP_CG.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2771&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sadhna News MP CG
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2771
+#EXTINF:0 tvg-id="2772" tvg-name="India Daily Live" group-title="News" tvg-chno="951" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Daily_Live.png",India Daily Live
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2772
+#EXTINF:0 tvg-id="2773" tvg-name="Aaj Ki Khabar" group-title="News" tvg-chno="952" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Ki_Khabar.png",Aaj Ki Khabar
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2773
+#EXTINF:0 tvg-id="2774" tvg-name="Power Kids TV" group-title="Kids" tvg-chno="953" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Power_Kids_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2774&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Power Kids TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2774
+#EXTINF:0 tvg-id="2777" tvg-name="Asian News" group-title="News" tvg-chno="955" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asian_News.png",Asian News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2777
+#EXTINF:0 tvg-id="2784" tvg-name="ISKCON Bangalore" group-title="Devotional" tvg-chno="962" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ISKCON_Bangalore.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2784&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ISKCON Bangalore
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2784
+#EXTINF:0 tvg-id="2851" tvg-name="IN24 Live" group-title="News" tvg-chno="965" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IN24_Live.png",IN24 Live
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2851
+#EXTINF:0 tvg-id="2852" tvg-name="Sports18 2" group-title="Sports" tvg-chno="966" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_2.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2852&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sports18 2
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2852
+#EXTINF:0 tvg-id="2936" tvg-name="Oye Music" group-title="Music" tvg-chno="979" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Oye_Music.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2936&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Oye Music
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2936
+#EXTINF:0 tvg-id="2937" tvg-name="Update India" group-title="News" tvg-chno="980" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Update_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2937&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Update India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2937
+#EXTINF:0 tvg-id="2938" tvg-name="Haryana Buzz" group-title="Infotainment" tvg-chno="981" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Haryana_Buzz.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2938&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Haryana Buzz
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2938
+#EXTINF:0 tvg-id="2944" tvg-name="Coke Studio Bharat" group-title="Music" tvg-chno="983" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Coke_Studio_Bharat.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2944&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Coke Studio Bharat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2944
+#EXTINF:0 tvg-id="2945" tvg-name="Tar TV" group-title="News" tvg-chno="984" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tar_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2945&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Tar TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2945
+#EXTINF:0 tvg-id="2946" tvg-name="National News" group-title="News" tvg-chno="985" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2946&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",National News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2946
+#EXTINF:0 tvg-id="2947" tvg-name="Jeewan Bhakti" group-title="Devotional" tvg-chno="986" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jeewan_Bhakti.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2947&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jeewan Bhakti
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2947
+#EXTINF:0 tvg-id="2954" tvg-name="TV45" group-title="News" tvg-chno="989" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV45.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2954&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TV45
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2954
+#EXTINF:0 tvg-id="2955" tvg-name="Shrimad Ramayan" group-title="Entertainment" tvg-chno="990" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shrimad_Ramayan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2955&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shrimad Ramayan
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2955
+#EXTINF:0 tvg-id="2957" tvg-name="Public First" group-title="News" tvg-chno="992" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Public_First.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2957&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Public First
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2957
+#EXTINF:0 tvg-id="2959" tvg-name="Janta Darbar News" group-title="News" tvg-chno="994" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janta_Darbar_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2959&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Janta Darbar News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2959
+#EXTINF:0 tvg-id="2962" tvg-name="NoFilterNeha" group-title="Entertainment" tvg-chno="996" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/No_Filter_Neha.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2962&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",NoFilterNeha
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2962
+#EXTINF:0 tvg-id="3003" tvg-name="Coke Studio Bharat Season 1" group-title="Music" tvg-chno="997" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CokeStudio_Bharat_S1.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3003&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Coke Studio Bharat Season 1
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3003
+#EXTINF:0 tvg-id="3007" tvg-name="AMV" group-title="News" tvg-chno="1001" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AMV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3007&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",AMV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3007
+#EXTINF:0 tvg-id="3013" tvg-name="Narayana Health" group-title="Infotainment" tvg-chno="1005" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Narayana_Health.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3013&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Narayana Health
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3013
+#EXTINF:0 tvg-id="3014" tvg-name="IPN News" group-title="News" tvg-chno="1006" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IPN_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3014&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",IPN News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3014
+#EXTINF:0 tvg-id="3016" tvg-name="TNI24" group-title="News" tvg-chno="1008" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TNI24.png",TNI24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3016
+#EXTINF:0 tvg-id="3017" tvg-name="News Hour" group-title="News" tvg-chno="1009" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Hour.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3017&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News Hour
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3017
+#EXTINF:0 tvg-id="3020" tvg-name="Sony LIV Exclusive" group-title="Entertainment" tvg-chno="1012" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rai_Vs_Rai.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3020&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony LIV Exclusive
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3020
+#EXTINF:0 tvg-id="3021" tvg-name="RC Studio" group-title="Entertainment" tvg-chno="1013" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RC_Studio.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3021&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",RC Studio
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3021
+#EXTINF:0 tvg-id="3022" tvg-name="Unique Tv" group-title="Entertainment" tvg-chno="1014" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Unique_Tv.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3022&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Unique Tv
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3022
+#EXTINF:0 tvg-id="3024" tvg-name="India TV Yoga Channel" group-title="News" tvg-chno="1016" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IndiaTV_Yoga.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3024&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India TV Yoga Channel
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3024
+#EXTINF:0 tvg-id="3025" tvg-name="India TV Aap Ki Adalat" group-title="News" tvg-chno="1017" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aap_Ki_Adalat.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3025&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India TV Aap Ki Adalat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3025
+#EXTINF:0 tvg-id="3026" tvg-name="India TV Speed News" group-title="News" tvg-chno="1018" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Speed_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3026&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India TV Speed News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3026
+#EXTINF:0 tvg-id="3027" tvg-name="Desh News" group-title="News" tvg-chno="1019" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Desh_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3027&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Desh News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3027
+#EXTINF:0 tvg-id="3028" tvg-name="BH Style Icons" group-title="Entertainment" tvg-chno="1020" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BHStyle_Icon.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3028&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",BH Style Icons
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3028
+#EXTINF:0 tvg-id="3029" tvg-name="Bollywood Masala" group-title="Entertainment" tvg-chno="1021" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/bollywoodmasala.png",Bollywood Masala
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3029
+#EXTINF:0 tvg-id="3038" tvg-name="Amritwani TV" group-title="Devotional" tvg-chno="1024" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amritwani_TV.png",Amritwani TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3038
+#EXTINF:0 tvg-id="3039" tvg-name="Garvi Gujarat" group-title="News" tvg-chno="1025" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Garvi_Gujarat.png",Garvi Gujarat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3039
+#EXTINF:0 tvg-id="3041" tvg-name="Bharat TV24" group-title="News" tvg-chno="1027" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_TV24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3041&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bharat TV24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3041
+#EXTINF:0 tvg-id="3042" tvg-name="News 24x7" group-title="News" tvg-chno="1028" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24x7.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3042&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News 24x7
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3042
+#EXTINF:0 tvg-id="3044" tvg-name="Gramin Drishti" group-title="Devotional" tvg-chno="1030" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gramin_Drishti.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3044&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Gramin Drishti
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3044
+#EXTINF:0 tvg-id="3048" tvg-name="BVG" group-title="Educational" tvg-chno="1034" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BVG.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3048&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",BVG
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3048
+#EXTINF:0 tvg-id="3049" tvg-name="TNI Awaaz" group-title="News" tvg-chno="1035" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TNI_Awaaz.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3049&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TNI Awaaz
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3049
+#EXTINF:0 tvg-id="3050" tvg-name="Indian News" group-title="News" tvg-chno="1036" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Indian_News.png",Indian News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3050
+#EXTINF:0 tvg-id="3052" tvg-name="Shresth Bharat" group-title="News" tvg-chno="1038" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shresth_Bharat.png",Shresth Bharat
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3052
+#EXTINF:0 tvg-id="3053" tvg-name="TNP News" group-title="News" tvg-chno="1039" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TNP_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3053&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TNP News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3053
+#EXTINF:0 tvg-id="3054" tvg-name="RDC Movies" group-title="Movies" tvg-chno="1040" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/rdcmovies.png",RDC Movies
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3054
+#EXTINF:0 tvg-id="3060" tvg-name="Hiff Movies" group-title="Movies" tvg-chno="1044" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hiff_Movies.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3060&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Hiff Movies
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3060
+#EXTINF:0 tvg-id="3061" tvg-name="Desi Tashan TV" group-title="Infotainment" tvg-chno="1045" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Tashan_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3061&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Desi Tashan TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3061
+#EXTINF:0 tvg-id="3062" tvg-name="Haryana Tashan Music" group-title="Infotainment" tvg-chno="1046" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HR_Tashan_Music.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3062&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Haryana Tashan Music
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3062
+#EXTINF:0 tvg-id="3063" tvg-name="PR News" group-title="News" tvg-chno="1047" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PR_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3063&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",PR News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3063
+#EXTINF:0 tvg-id="3064" tvg-name="Navsarjan Sanskruti News" group-title="News" tvg-chno="1048" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nav_Sanskruti_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3064&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Navsarjan Sanskruti News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3064
+#EXTINF:0 tvg-id="3065" tvg-name="Bharat Nation" group-title="News" tvg-chno="1049" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Nation.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3065&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bharat Nation
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3065
+#EXTINF:0 tvg-id="3066" tvg-name="Today 24 News UPUK" group-title="News" tvg-chno="1050" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Today_TV24_UPUK.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3066&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Today 24 News UPUK
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3066
+#EXTINF:0 tvg-id="3067" tvg-name="India Superfast" group-title="News" tvg-chno="1051" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Superfast.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3067&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India Superfast
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3067
+#EXTINF:0 tvg-id="3068" tvg-name="Bharat Update" group-title="News" tvg-chno="1052" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Update.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3068&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bharat Update
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3068
+#EXTINF:0 tvg-id="3069" tvg-name="Raapchik" group-title="Entertainment" tvg-chno="1053" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raapchik.png",Raapchik
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3069
+#EXTINF:0 tvg-id="3070" tvg-name="Vistaar News" group-title="News" tvg-chno="1054" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vistaar_News.png",Vistaar News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3070
+#EXTINF:0 tvg-id="3071" tvg-name="TV Asia Powered by Shemaroo" group-title="Entertainment" tvg-chno="1055" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Asia.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3071&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TV Asia Powered by Shemaroo
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3071
+#EXTINF:0 tvg-id="3074" tvg-name="Shemaroo Filmy Gaane" group-title="Music" tvg-chno="1058" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/shemaroofilmigaane.png",Shemaroo Filmy Gaane
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3074
+#EXTINF:0 tvg-id="3075" tvg-name="Shemaroo Bollywood" group-title="Movies" tvg-chno="1059" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/shemaroobollywood.png",Shemaroo Bollywood
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3075
+#EXTINF:0 tvg-id="3085" tvg-name="SACH BEDHADAK" group-title="News" tvg-chno="1062" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sach_Bedhadak.png",SACH BEDHADAK
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3085
+#EXTINF:0 tvg-id="3086" tvg-name="Naxatra News Hindi" group-title="News" tvg-chno="1063" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3086&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Naxatra News Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3086
+#EXTINF:0 tvg-id="3088" tvg-name="Sun Neo HD" group-title="Entertainment" tvg-chno="1065" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SUN_Neo.png",Sun Neo HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3088
+#EXTINF:0 tvg-id="3089" tvg-name="Sangam TV" group-title="Devotional" tvg-chno="1066" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sangamtv.png",Sangam TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3089
+#EXTINF:0 tvg-id="3090" tvg-name="KBC News" group-title="News" tvg-chno="1067" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KBC_News.png",KBC News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3090
+#EXTINF:0 tvg-id="3103" tvg-name="News UNI" group-title="News" tvg-chno="1069" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_UNI.png",News UNI
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3103
+#EXTINF:0 tvg-id="3104" tvg-name="Smriti Patra TV" group-title="News" tvg-chno="1070" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Smriti_Patra.png",Smriti Patra TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3104
+#EXTINF:0 tvg-id="3105" tvg-name="National Tv India" group-title="News" tvg-chno="1071" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Tv_India.png",National Tv India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=3105
