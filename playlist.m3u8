@@ -67,8 +67,6 @@ http://192.168.1.17:5001/live/h/481.m3u8
 http://192.168.1.17:5001/live/h/482.m3u8
 #EXTINF:0 tvg-id="ts120" tvg-name="Sony MAX2" group-title="Movies" tvg-chno="83" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=483&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony MAX2
 https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:0 tvg-id="484" tvg-name="Zee Cinema" group-title="Movies" tvg-chno="84" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/master.m3u8
 #EXTINF:-1 tvg-id=485 tvg-name="Enterr 10" tvg-logo="http://192.168.1.17:5001/jtvimage/Enterr_10.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Enterr 10
 http://192.168.1.17:5001/live/h/485.m3u8
 #EXTINF:-1 tvg-id=486 tvg-name="Bhojpuri Cinema" tvg-logo="http://192.168.1.17:5001/jtvimage/Bhojpuri_Cinema.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Bhojpuri Cinema
@@ -373,9 +371,8 @@ http://192.168.1.17:5001/live/h/1296.m3u8
 http://192.168.1.17:5001/live/h/1328.m3u8
 #EXTINF:-1 tvg-id=1329 tvg-name="DD Gyandarshan" tvg-logo="http://192.168.1.17:5001/jtvimage/DD_Gyandarshan.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Gyandarshan
 http://192.168.1.17:5001/live/h/1329.m3u8
-#EXTINF:0 tvg-id="1351" tvg-name="Zee TV" group-title="Entertainment" tvg-chno="588" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv1/default/master.m3u8
 #EXTINF:0 tvg-id="ts297" tvg-name="Big Magic" group-title="Entertainment" tvg-chno="592" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.drmlive-02.workers.dev/zee/big-magic.m3u8
 #EXTINF:-1 tvg-id=1368 tvg-name="Colors SD" tvg-logo="http://192.168.1.17:5001/jtvimage/Colors_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors SD
 http://192.168.1.17:5001/live/h/1368.m3u8
@@ -468,6 +465,7 @@ http://192.168.1.17:5001/live/h/1613.m3u8
 #EXTINF:-1 tvg-id=1635 tvg-name="News State MPCG " tvg-logo="http://192.168.1.17:5001/jtvimage/News_State_MPCG.png" tvg-language="Hindi" tvg-type="News" group-title="News", News State MPCG 
 http://192.168.1.17:5001/live/h/1635.m3u8
 #EXTINF:0 tvg-id="ts1183" tvg-name="&Xplore HD" group-title="Movies" tvg-chno="719" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Xplore_HD.png",&Xplore HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF:-1 tvg-id=1670 tvg-name="C News Bharat" tvg-logo="http://192.168.1.17:5001/jtvimage/C_News_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", C News Bharat
 http://192.168.1.17:5001/live/h/1670.m3u8
@@ -521,8 +519,6 @@ http://192.168.1.17:5001/live/h/1804.m3u8
 http://192.168.1.17:5001/live/h/1817.m3u8
 #EXTINF:-1 tvg-id=1834 tvg-name="Green Chillies" tvg-logo="http://192.168.1.17:5001/jtvimage/Green_Chillies_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Green Chillies
 http://192.168.1.17:5001/live/h/1834.m3u8
-#EXTINF:0 tvg-id="1839" tvg-name="And Pictures" group-title="Movies" tvg-chno="785" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",And Pictures
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/master.m3u8
 #EXTINF:-1 tvg-id=1847 tvg-name="Z10 TV" tvg-logo="http://192.168.1.17:5001/jtvimage/Harpal_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Z10 TV
 http://192.168.1.17:5001/live/h/1847.m3u8
 #EXTINF:-1 tvg-id=1853 tvg-name="News11 Bharat" tvg-logo="http://192.168.1.17:5001/jtvimage/News11_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", News11 Bharat
@@ -591,8 +587,6 @@ http://192.168.1.17:5001/live/h/2018.m3u8
 http://192.168.1.17:5001/live/h/2020.m3u8
 #EXTINF:-1 tvg-id=2021 tvg-name="HNN 24x7" tvg-logo="http://192.168.1.17:5001/jtvimage/HNN24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", HNN 24x7
 http://192.168.1.17:5001/live/h/2021.m3u8
-#EXTINF:0 tvg-id="2024" tvg-name="And TV" group-title="Entertainment" tvg-chno="857" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png",And TV
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv1/default/master.m3u8
 #EXTINF:-1 tvg-id=2029 tvg-name="Aaryaa Bhakti" tvg-logo="http://192.168.1.17:5001/jtvimage/Aaryaa_Bhakti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aaryaa Bhakti
 http://192.168.1.17:5001/live/h/2029.m3u8
 #EXTINF:-1 tvg-id=2030 tvg-name="Aaryaa News" tvg-logo="http://192.168.1.17:5001/jtvimage/Aaryaa_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaryaa News
