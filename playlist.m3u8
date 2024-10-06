@@ -1,0 +1,38 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTINF:-1 tvg-id=ts63 tvg-name="Zee TV HD" tvg-logo="http://192.168.1.17:5001/jtvimage/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD
+http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/master.m3u8
+#EXTINF:-1 tvg-id=ts40 tvg-name="And TV HD" tvg-logo="http://192.168.1.17:5001/jtvimage/And_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", And TV HD
+http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/master.m3u8
+#EXTINF:-1 tvg-id=ts523 tvg-name="Zee Anmol" tvg-logo="http://192.168.1.17:5001/jtvimage/Zee_Anmol.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee Anmol
+http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/master.m3u8
+#EXTINF:-1 tvg-id=ts503 tvg-name="Zee Cinema HD" tvg-logo="http://192.168.1.17:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
+http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/master.m3u8
+#EXTINF:-1 tvg-id=ts267 tvg-name="And Pictures HD" tvg-logo="http://192.168.1.17:5001/jtvimage/And_Pictures_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD
+http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/master.m3u8
+#EXTINF:-1 tvg-id=ts64 tvg-name="Zee Anmol Cinema" tvg-logo="http://192.168.1.17:5001/jtvimage/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema
+http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/master.m3u8
+#EXTINF:-1 tvg-id=ts175 tvg-name="Zee Bollywood" tvg-logo="http://192.168.1.17:5001/jtvimage/Zee_Classic.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood
+http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/master.m3u8
+#EXTINF:-1 tvg-id=ts100 tvg-name="Zee Action" tvg-logo="http://192.168.1.17:5001/jtvimage/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action
+http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/master.m3u8
+
+#EXTINF:-1 tvg-id=ts15 tvg-name="SET HD" tvg-logo="http://192.168.1.17:5001/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
+http://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-id=ts48 tvg-name="Sony SAB HD" tvg-logo="http://192.168.1.17:5001/jtvimage/Sony_SAB_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
+http://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-id=474 tvg-name="Sony Pal" tvg-logo="http://192.168.1.17:5001/jtvimage/Sony_Pal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
+http://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-id=ts56 tvg-name="Sony Wah" tvg-logo="http://192.168.1.17:5001/jtvimage/Sony_Wah.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Wah
+http://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-id=ts80 tvg-name="Sony Max HD" tvg-logo="http://192.168.1.17:5001/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
+http://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id=ts132 tvg-name="Sony Max SD" tvg-logo="http://192.168.1.17:5001/jtvimage/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max SD
+http://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-id=ts120 tvg-name="Sony MAX2" tvg-logo="http://192.168.1.17:5001/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
+http://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-id=ts464 tvg-name="Sony Ten 3 HD Hindi" tvg-logo="http://192.168.1.17:5001/jtvimage/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 HD Hindi
+http://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id=ts171 tvg-name="Sony Ten 3 Hindi" tvg-logo="http://192.168.1.17:5001/jtvimage/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 Hindi
+http://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-id=ts45 tvg-name="Sony Yay Hindi" tvg-logo="http://192.168.1.17:5001/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
+http://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
