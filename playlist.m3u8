@@ -353,8 +353,8 @@ http://192.168.1.17:5001/live/h/1328.m3u8
 http://192.168.1.17:5001/live/h/1329.m3u8
 #EXTINF:-1 tvg-id=1368 tvg-name="Colors SD" tvg-logo="http://192.168.1.17:5001/jtvimage/Colors_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors SD
 http://192.168.1.17:5001/live/h/1368.m3u8
-#EXTINF:-1 tvg-id=1393 tvg-name="Sony Wah" tvg-logo="http://192.168.1.17:5001/jtvimage/Sony_Wah.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Wah
-http://192.168.1.17:5001/live/h/1393.m3u8
+#EXTINF:-1 tvg-id=ts56 tvg-name="Sony Wah" tvg-logo="http://192.168.1.17:5001/jtvimage/Sony_Wah.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Wah
+http://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-id=1396 tvg-name="Set SD" tvg-logo="http://192.168.1.17:5001/jtvimage/Sony_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Set SD
 http://192.168.1.17:5001/live/h/1396.m3u8
 #EXTINF:-1 tvg-id=1400 tvg-name="MTV Beats SD" tvg-logo="http://192.168.1.17:5001/jtvimage/MTV_Beats_SD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats SD
